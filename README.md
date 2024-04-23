@@ -60,22 +60,3 @@ Answer to the following questions:
 The images we are using in this assignment are different from a usual picture: the x and y axes carry different meanings. With the tools we are exploring during lectures and seminars, can you propose a CNN architecture that takes into account differently the time and frequency components of the spectrograms?
 
 Present and describe the architecture you have chosen and justify the rationale behind it. Plot training and validation loss and accuracy over 20 epochs (this time you can use the GPU runtime if the model is slow to train). Print the accuracy on the test set and the confusion matrices on the training and test sets.
-
-## Marking scheme
-
-| Problem | Full points | Max points |
-|:--------|:----------|-----------:|
-| P1-1 and P1-2  | Correct architecture, training and overfit rationale | 10 |
-| P1-3 and P1-4  | Correct accuracy and confusion matrix | 10 |
-| P1-5  | Correct predictions of wrong examples. Correct plots of spectrograms, Grad-CAM heatmaps and rational interpretation of Grad-CAM heatmaps | 30 |
-| P1-6  | Rational justification of Grad-CAM | 20 |
-| P2  | Rational architecture and informative justification | 30  |
-| Total |  | 100 |
-
-## Submission date and guidelines
-
-1. The deadline is **Thursday 22nd February, 5pm**. Do not modify your Git repository after the deadline. To complete your submission, go to [Moodle (Assignment 1 section)](https://moodle.lse.ac.uk/mod/assign/view.php?id=1159658) and upload there **a file (either pdf/docx/txt) with a link to your GitHub repository** (this must be done by the deadline). Your Moodle submission should be titled clearly with your LSE Candidate Number (your 5-digit candidate number available on LfY). Please make sure that your submission is **not in draft mode**.
-3. Upload your **Python notebook** (including discussion/explanation for each question) in .ipynb format into the GitHub repository automatically created with the link sent for the assignment. Note that the notebook needs to be **compiled** (i.e., we need to be able to see the outputs of code cells): we will not compile notebooks to generate solutions. Document your Python notebook with proper sections for each question and provide all the comments necessary to understand your code. Please, be tidy.
-4. The use of **GenAI tools** for the assignment is partially permitted according to the department and course regulations, which you find on the Moodle webpage of the course. If you use any GenAI tool, you need to **declare it** and **upload the chat log** in the same Git repository.
-5. **Do not upload data**, as these cannot be changed.
-
