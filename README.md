@@ -1,8 +1,6 @@
 # Music genre classification using CNNs
 
-The goal of the assignment is to classify different music genres based on their spectrograms. 
-
-Download the **template notebook** as a start for your assignment: there, you will find the way to download the data and some helpful functions already coded for you. Upload it on Google Colab and modify the name of the file as "ST456_WT2024_Assignment1_YourLSECandidateNumber.ipynb", where `YourLSECandidateNumber` corresponds to your 5-digit candidate number available on LfY.
+The goal is to classify different music genres based on their spectrograms. 
 
 ## Data
 
